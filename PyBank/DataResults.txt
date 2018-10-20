@@ -1,0 +1,6 @@
+Final Analysis: 
+----------------------------
+The total number of months are: $86
+Your total net profits are: 38382578
+Your largest profit was: 1170593
+Your largest loss was: -1196225
